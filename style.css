@@ -1,0 +1,209 @@
+body{
+    background-color: #060330;
+    color:white;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.select{
+    border: 0;
+    outline: none;
+    appearance: none;
+    background: transparent;
+    color:white;
+    
+}
+nav{
+    display: flex;
+    gap: 30px;
+}
+a:hover{
+    border-bottom: 2px solid rgb(20, 20, 236);
+}
+#sign{
+    display: flex;
+    margin-top: -5rem;
+    gap: 10px;
+}
+#logo{
+    display: flex;
+    padding-left: -1rem;
+    margin-top: -1rem;
+}
+#menu{
+    display: flex;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 30px;
+}
+#try{
+    display: flex;
+    gap:20px;
+}
+#all{
+    display: flex;
+}
+#side{
+    display: flex;
+    padding-left: 60px;
+    flex-direction: column;
+    position: relative;
+
+}
+#side1{
+    position: relative;
+}
+#art{
+    position: absolute;
+    top:200px;
+    font-size: 24px;
+}
+#side1 img{
+    display: flex;
+    width: 350px;
+    height: 400px;
+}
+#arrow{
+    display: flex;
+    border:1px solid gray;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    background-color: grey;
+    margin-bottom: 20px;
+}
+#first{
+    display: flex;
+    font-size: 23px;
+}
+#second{
+    display: flex;
+    font-size: 18px;
+    
+}
+#surv{
+    display: flex;
+    position: absolute;
+    padding-top: 300px;
+    padding-left: 420px;
+    flex-direction: column;
+    position: absolute;
+}
+#survs{
+    position: relative;
+}
+#survs img{
+    display: flex;
+    width: 300px;
+}
+#top{
+    position: absolute;
+    top: 180px;
+    font-size: 24px;
+}
+#right{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+#right img{
+    display: flex;
+    padding-top:50px ;
+    padding-left: 150px;
+    width: 500px;
+    height: 680px;
+
+}
+#rights{
+    position: relative;
+
+}
+#case{
+    position: absolute;
+    top: 100px;
+    left: 180px;
+    font-size: 24px;
+
+}
+#photo{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+#photos{
+    display: flex;
+    height: 350px;
+    width: 100px;
+    padding-left: 60px;
+}
+#pod{
+    position: absolute;
+    top: 220px;
+}
+#fish{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    padding-left:250px ;
+    top: 2px;
+}
+#fishes{
+    display: flex;
+    height: 310px;
+}
+#up{
+    position:absolute;
+    top: 190px;
+    padding-left: 10px;
+}
+#flex{
+    display: flex;
+    gap: 10px;
+}
+#sub{
+    display:block;
+    background-color: rgb(36, 53, 75);
+    margin-top: 10px;
+    width: 500px;
+    height: 300px;
+    
+}
+#subs{
+    display: flex;
+    flex-direction: column;
+    padding-left: 30px;
+}
+#sub1{
+    display: flex;
+    padding-left: 30px;
+}
+#hor{
+    color: white;
+    width: 30px;
+}
+#but{
+    display: flex;
+    gap: 30px;
+}
+#modify{
+    background-color: blue;
+}
+#fea{
+    display: flex;
+    padding-top: 80px;
+    padding-left: 40%;
+    padding-bottom: 10px;
+}
+#short{
+    display: flex;
+    padding-top: 10px;
+}
+#short img{
+    display: flex;
+    width: 1270px;
+    height: 500px;
+}
